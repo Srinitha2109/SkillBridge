@@ -1,0 +1,1340 @@
+{
+  "registrationRequests": [
+    {
+      "id": "1obcymm1a",
+      "name": "Surya",
+      "email": "surya@gmail.com",
+      "role": "CLIENT",
+      "techStack": "",
+      "company": "Hartford",
+      "bio": "",
+      "status": "Approved",
+      "timestamp": "2026-02-02T06:41:41.138Z"
+    },
+    {
+      "id": "p44d6sqjy",
+      "name": "katraj",
+      "email": "kat@gmail.om",
+      "role": "TRAINER",
+      "techStack": "Java",
+      "company": "",
+      "bio": "I am a freelancer",
+      "status": "Approved",
+      "timestamp": "2026-02-02T06:54:51.611Z"
+    },
+    {
+      "id": "5pyeq2ghe",
+      "name": "mahesh",
+      "email": "rikki.katta@gmail.com",
+      "role": "TRAINER",
+      "techStack": "java",
+      "company": "",
+      "bio": "freelancer",
+      "status": "Approved",
+      "timestamp": "2026-02-02T07:10:57.509Z"
+    },
+    {
+      "id": "o9n3yq7ri",
+      "name": "hford",
+      "email": "rikki.katta@gmail.com",
+      "role": "CLIENT",
+      "techStack": "",
+      "company": "micro",
+      "bio": "",
+      "status": "Approved",
+      "timestamp": "2026-02-02T07:13:28.508Z"
+    },
+    {
+      "id": "z49lfzdai",
+      "name": "Srinitha Rao Devaraneni",
+      "email": "srinithadevaraneni21@gmail.com",
+      "role": "CLIENT",
+      "techStack": "",
+      "company": "The Hartford",
+      "bio": "Requesting for a trainer",
+      "status": "Approved",
+      "timestamp": "2026-02-03T05:15:03.491Z"
+    },
+    {
+      "id": "3cdy9cf97",
+      "name": "Srinitha Rao Devaraneni",
+      "email": "srinithadevaraneni21@gmail.com",
+      "role": "CLIENT",
+      "techStack": "",
+      "company": "The Hartford",
+      "bio": "Request for a trianer\n",
+      "status": "Pending",
+      "timestamp": "2026-02-03T05:26:14.537Z"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "email": "admin@edutech.com",
+      "password": "password123",
+      "name": "Super Admin",
+      "role": "ADMIN"
+    },
+    {
+      "id": "2",
+      "email": "trainer@edutech.com",
+      "password": "password123",
+      "name": "John Trainer",
+      "role": "TRAINER"
+    },
+    {
+      "id": "3",
+      "email": "client@techcorp.com",
+      "password": "password123",
+      "name": "Alice Smith",
+      "role": "CLIENT",
+      "companyId": "c1"
+    },
+    {
+      "id": "tszc44cc4",
+      "email": "harini@gmail.com",
+      "password": "Dwc68FQ6",
+      "name": "Harini",
+      "role": "TRAINER"
+    },
+    {
+      "id": "x96a5eudd",
+      "email": "sri@gmail.com",
+      "password": "7ji!bNSL",
+      "name": "sri",
+      "role": "TRAINER"
+    },
+    {
+      "id": "sih9sd2t3",
+      "email": "hari@gmail.com",
+      "password": "fgL6r#tR",
+      "name": "hari",
+      "role": "TRAINER"
+    },
+    {
+      "id": "1obcymm1a",
+      "email": "surya@gmail.com",
+      "password": "wa2@6AFm",
+      "name": "Surya",
+      "role": "CLIENT"
+    },
+    {
+      "id": "p44d6sqjy",
+      "email": "kat@gmail.om",
+      "password": "NKDZV^gT",
+      "name": "katraj",
+      "role": "TRAINER"
+    },
+    {
+      "id": "5pyeq2ghe",
+      "email": "rikki.katta@gmail.com",
+      "password": "Y%YMfr^J",
+      "name": "mahesh",
+      "role": "TRAINER"
+    },
+    {
+      "id": "o9n3yq7ri",
+      "email": "rikki.katta@gmail.com",
+      "password": "f2zDi!c4",
+      "name": "hford",
+      "role": "CLIENT"
+    },
+    {
+      "id": "92as9x4vj",
+      "email": "srinitha.devaraneni@gmail.com",
+      "password": "Urkz#79s",
+      "name": "Srinitha Rao Devaraneni",
+      "role": "CLIENT"
+    },
+    {
+      "id": "z49lfzdai",
+      "email": "srinithadevaraneni21@gmail.com",
+      "password": "%bdA7GJw",
+      "name": "Srinitha Rao Devaraneni",
+      "role": "CLIENT"
+    },
+    {
+      "id": "z49lfzdai",
+      "email": "srinithadevaraneni21@gmail.com",
+      "password": "qCSsBzGm",
+      "name": "Srinitha Rao Devaraneni",
+      "role": "CLIENT"
+    },
+    {
+      "id": "z49lfzdai",
+      "email": "srinithadevaraneni21@gmail.com",
+      "password": "M@5068Tc",
+      "name": "Srinitha Rao Devaraneni",
+      "role": "CLIENT"
+    },
+    {
+      "id": "3cdy9cf97",
+      "email": "srinithadevaraneni21@gmail.com",
+      "password": "8WB#RdMb",
+      "name": "Srinitha Rao Devaraneni",
+      "role": "CLIENT"
+    },
+    {
+      "id": "3cdy9cf97",
+      "email": "srinithadevaraneni21@gmail.com",
+      "password": "!AVR0g5#",
+      "name": "Srinitha Rao Devaraneni",
+      "role": "CLIENT"
+    }
+  ],
+  "trainers": [
+    {
+      "id": "2",
+      "name": "John Trainer",
+      "email": "trainer@edutech.com",
+      "techStack": [
+        "Angular",
+        "React",
+        "Node.js"
+      ],
+      "experience": 8,
+      "rating": 4.8,
+      "availability": true,
+      "workload": 1
+    },
+    {
+      "id": "tszc44cc4",
+      "name": "Harini",
+      "email": "harini@gmail.com",
+      "techStack": [
+        "Angular",
+        "Java",
+        "SQL"
+      ],
+      "experience": 10,
+      "rating": 5,
+      "availability": true,
+      "workload": 0
+    },
+    {
+      "id": "p44d6sqjy",
+      "name": "katraj",
+      "email": "kat@gmail.om",
+      "techStack": [
+        "Java"
+      ],
+      "experience": 0,
+      "rating": 0,
+      "availability": true,
+      "workload": 0
+    },
+    {
+      "id": "5pyeq2ghe",
+      "name": "mahesh",
+      "email": "rikki.katta@gmail.com",
+      "techStack": [
+        "java"
+      ],
+      "experience": 0,
+      "rating": 0,
+      "availability": true,
+      "workload": 0
+    }
+  ],
+  "clients": [
+    {
+      "id": "c1",
+      "name": "Tech Corp",
+      "contactPerson": "Alice Smith",
+      "email": "alice@techcorp.com"
+    },
+    {
+      "id": "1obcymm1a",
+      "name": "Surya",
+      "email": "surya@gmail.com",
+      "company": "Hartford",
+      "activeTrainings": 0,
+      "totalSpent": 0
+    },
+    {
+      "id": "o9n3yq7ri",
+      "name": "hford",
+      "email": "rikki.katta@gmail.com",
+      "company": "micro",
+      "activeTrainings": 0,
+      "totalSpent": 0
+    },
+    {
+      "id": "92as9x4vj",
+      "name": "Srinitha Rao Devaraneni",
+      "email": "srinitha.devaraneni@gmail.com",
+      "company": "The Hartford",
+      "activeTrainings": 0,
+      "totalSpent": 0
+    },
+    {
+      "id": "z49lfzdai",
+      "name": "Srinitha Rao Devaraneni",
+      "email": "srinithadevaraneni21@gmail.com",
+      "company": "The Hartford",
+      "activeTrainings": 0,
+      "totalSpent": 0
+    },
+    {
+      "id": "z49lfzdai",
+      "name": "Srinitha Rao Devaraneni",
+      "email": "srinithadevaraneni21@gmail.com",
+      "company": "The Hartford",
+      "activeTrainings": 0,
+      "totalSpent": 0
+    },
+    {
+      "id": "z49lfzdai",
+      "name": "Srinitha Rao Devaraneni",
+      "email": "srinithadevaraneni21@gmail.com",
+      "company": "The Hartford",
+      "activeTrainings": 0,
+      "totalSpent": 0
+    },
+    {
+      "id": "z49lfzdai",
+      "name": "Srinitha Rao Devaraneni",
+      "email": "srinithadevaraneni21@gmail.com",
+      "company": "The Hartford",
+      "activeTrainings": 0,
+      "totalSpent": 0
+    },
+    {
+      "id": "3cdy9cf97",
+      "name": "Srinitha Rao Devaraneni",
+      "email": "srinithadevaraneni21@gmail.com",
+      "company": "The Hartford",
+      "activeTrainings": 0,
+      "totalSpent": 0
+    },
+    {
+      "id": "3cdy9cf97",
+      "name": "Srinitha Rao Devaraneni",
+      "email": "srinithadevaraneni21@gmail.com",
+      "company": "The Hartford",
+      "activeTrainings": 0,
+      "totalSpent": 0
+    }
+  ],
+  "trainings": [
+    {
+      "id": "6a81",
+      "title": "Angular Training",
+      "technology": "Angular",
+      "preferredDates": "2026-02-01",
+      "budget": 200000,
+      "clientId": "c1",
+      "status": "Payment Done",
+      "clientPO": {
+        "filename": "PO_Pending.pdf",
+        "status": "Uploaded"
+      },
+      "trainerId": "2",
+      "trainerPO": {
+        "filename": "TPO_2_6a81.pdf",
+        "status": "Accepted"
+      },
+      "clientInvoice": {
+        "invoiceNumber": "INV-CL-4850",
+        "companyName": "Tech Corp",
+        "trainingName": "Angular Training",
+        "technology": "Angular",
+        "duration": "5 Days",
+        "cost": 200000,
+        "gst": 36000,
+        "totalAmount": 236000,
+        "dueDate": "2026-02-15T17:40:39.200Z",
+        "poReference": "PO_Pending.pdf",
+        "status": "Paid"
+      },
+      "trainerInvoice": null
+    },
+    {
+      "id": "51ed",
+      "company": "Intel",
+      "technology": "SQL",
+      "duration": "25",
+      "budget": 250000,
+      "mode": "Online",
+      "poNumber": "4567890",
+      "title": "Intel - SQL",
+      "clientId": "c1",
+      "status": "Payment Done",
+      "clientPO": {
+        "filename": "PO_4567890.pdf",
+        "status": "Uploaded",
+        "poNumber": "4567890"
+      },
+      "trainerId": "tszc44cc4",
+      "trainerPO": {
+        "filename": "TPO_tszc44cc4_51ed.pdf",
+        "status": "Accepted",
+        "trainerName": "Harini",
+        "technology": "SQL",
+        "paymentModel": "Fixed",
+        "rate": 150000,
+        "totalPayable": 150000,
+        "createdAt": "2026-02-02T18:06:17.158Z"
+      },
+      "clientInvoice": {
+        "invoiceNumber": "INV-CL-4168",
+        "companyName": "Tech Corp",
+        "trainingName": "Intel - SQL",
+        "technology": "SQL",
+        "duration": "25",
+        "startDate": "2026-01-01",
+        "endDate": "2026-02-01",
+        "cost": 250000,
+        "gst": 45000,
+        "totalAmount": 295000,
+        "dueDate": "2026-02-17T18:43:13.980Z",
+        "poReference": "4567890",
+        "status": "Paid"
+      },
+      "trainerInvoice": {
+        "hoursCompleted": 25,
+        "amountClaimed": 150000,
+        "bankName": "axis",
+        "accountNumber": "98876543321",
+        "ifscCode": "AXIS",
+        "filename": "INV_tszc44cc4_51ed.pdf",
+        "status": "Released",
+        "submittedAt": "2026-02-02T18:08:26.657Z"
+      },
+      "timestamp": "2026-02-02T18:05:34.394Z",
+      "enrollmentId": "ENR-BGTHQ6",
+      "startDate": "2026-01-01",
+      "endDate": "2026-02-01",
+      "paymentType": "Net 30"
+    },
+    {
+      "id": "5401",
+      "company": "Sales",
+      "technology": "MERN Stack",
+      "duration": "20",
+      "budget": 400000,
+      "mode": "Online",
+      "poNumber": "8765",
+      "title": "Sales - MERN Stack",
+      "clientId": "c1",
+      "status": "Payment Done",
+      "clientPO": {
+        "filename": "PO_8765.pdf",
+        "status": "Uploaded",
+        "poNumber": "8765"
+      },
+      "trainerId": "tszc44cc4",
+      "trainerPO": {
+        "filename": "TPO_tszc44cc4_5401.pdf",
+        "status": "Accepted",
+        "trainerName": "Harini",
+        "technology": "MERN Stack",
+        "paymentModel": "Fixed",
+        "rate": 123456,
+        "totalPayable": 123456,
+        "createdAt": "2026-02-02T19:02:42.738Z"
+      },
+      "clientInvoice": {
+        "invoiceNumber": "INV-CL-6912",
+        "companyName": "Tech Corp",
+        "trainingName": "Sales - MERN Stack",
+        "technology": "MERN Stack",
+        "duration": "20",
+        "startDate": "2026-02-01",
+        "endDate": "2026-02-02",
+        "cost": 400000,
+        "gst": 72000,
+        "totalAmount": 472000,
+        "dueDate": "2026-02-17T19:04:58.595Z",
+        "poReference": "8765",
+        "status": "Paid"
+      },
+      "trainerInvoice": {
+        "hoursCompleted": 24,
+        "amountClaimed": 123456,
+        "bankName": "sbi",
+        "accountNumber": "1234567890",
+        "ifscCode": "AXIS",
+        "filename": "INV_tszc44cc4_5401.pdf",
+        "status": "Released",
+        "submittedAt": "2026-02-02T19:03:15.494Z"
+      },
+      "timestamp": "2026-02-02T19:02:03.076Z",
+      "enrollmentId": "ENR-KGUJY7",
+      "startDate": "2026-02-01",
+      "endDate": "2026-02-02",
+      "paymentType": "Net 30"
+    },
+    {
+      "id": "c4ec",
+      "company": "Google",
+      "technology": "Angular",
+      "duration": "36",
+      "budget": 98766,
+      "mode": "Online",
+      "poNumber": "7654",
+      "title": "Google - Angular",
+      "clientId": "c1",
+      "status": "Invoice Generated",
+      "clientPO": {
+        "filename": "PO_7654.pdf",
+        "status": "Uploaded",
+        "poNumber": "7654"
+      },
+      "trainerId": "2",
+      "trainerPO": {
+        "filename": "TPO_2_c4ec.pdf",
+        "status": "Accepted",
+        "trainerName": "John Trainer",
+        "technology": "Angular",
+        "paymentModel": "Fixed",
+        "rate": 1234,
+        "totalPayable": 1234,
+        "createdAt": "2026-02-02T19:08:05.509Z"
+      },
+      "clientInvoice": {
+        "invoiceNumber": "INV-CL-2697",
+        "companyName": "Tech Corp",
+        "trainingName": "Google - Angular",
+        "technology": "Angular",
+        "duration": "36",
+        "startDate": "2026-02-01",
+        "endDate": "2026-02-02",
+        "cost": 98766,
+        "gst": 17777.88,
+        "totalAmount": 116543.88,
+        "dueDate": "2026-02-18T05:10:43.439Z",
+        "poReference": "7654",
+        "status": "Generated"
+      },
+      "trainerInvoice": {
+        "hoursCompleted": 17,
+        "amountClaimed": 1234,
+        "bankName": "sbi",
+        "accountNumber": "1234567890",
+        "ifscCode": "sbin",
+        "filename": "INV_2_c4ec.pdf",
+        "status": "Pending Approval",
+        "submittedAt": "2026-02-03T04:42:55.088Z"
+      },
+      "timestamp": "2026-02-02T19:07:38.191Z",
+      "enrollmentId": "ENR-NX8XPM",
+      "startDate": "2026-02-01",
+      "endDate": "2026-02-02",
+      "paymentType": "Net 30"
+    },
+    {
+      "id": "8069",
+      "company": "microsoft",
+      "technology": "sql",
+      "duration": "5",
+      "budget": 34567,
+      "mode": "Online",
+      "poNumber": "34567",
+      "title": "microsoft - sql",
+      "clientId": "c1",
+      "status": "Requested",
+      "clientPO": {
+        "filename": "PO_34567.pdf",
+        "status": "Uploaded",
+        "poNumber": "34567"
+      },
+      "trainerId": null,
+      "trainerPO": null,
+      "clientInvoice": null,
+      "trainerInvoice": null,
+      "timestamp": "2026-02-02T19:09:34.453Z"
+    },
+    {
+      "id": "483f",
+      "company": "gggg",
+      "technology": "angular",
+      "duration": "5",
+      "budget": 123456,
+      "mode": "Online",
+      "poNumber": "56789",
+      "title": "gggg - angular",
+      "clientId": "c1",
+      "status": "Payment Done",
+      "clientPO": {
+        "filename": "PO_56789.pdf",
+        "status": "Uploaded",
+        "poNumber": "56789"
+      },
+      "trainerId": "2",
+      "trainerPO": {
+        "filename": "TPO_2_483f.pdf",
+        "status": "Accepted",
+        "trainerName": "John Trainer",
+        "technology": "angular",
+        "paymentModel": "Fixed",
+        "rate": 1234,
+        "totalPayable": 1234,
+        "createdAt": "2026-02-03T04:41:58.344Z"
+      },
+      "clientInvoice": {
+        "invoiceNumber": "INV-CL-6571",
+        "companyName": "Tech Corp",
+        "trainingName": "gggg - angular",
+        "technology": "angular",
+        "duration": "5",
+        "startDate": "2026-01-02",
+        "endDate": "2026-02-03",
+        "cost": 123456,
+        "gst": 22222.079999999998,
+        "totalAmount": 145678.08,
+        "dueDate": "2026-02-18T04:43:26.597Z",
+        "poReference": "56789",
+        "status": "Paid"
+      },
+      "trainerInvoice": {
+        "hoursCompleted": 17,
+        "amountClaimed": 1234,
+        "bankName": "sbi",
+        "accountNumber": "1234567890",
+        "ifscCode": "sbin",
+        "filename": "INV_2_483f.pdf",
+        "status": "Released",
+        "submittedAt": "2026-02-03T04:43:10.485Z"
+      },
+      "timestamp": "2026-02-03T04:40:34.943Z",
+      "enrollmentId": "ENR-AF2F9Q",
+      "startDate": "2026-01-02",
+      "endDate": "2026-02-03",
+      "paymentType": "Net 30"
+    }
+  ],
+  "auditLogs": [
+    {
+      "id": "a1",
+      "timestamp": "2026-01-31T22:00:00Z",
+      "userId": "1",
+      "action": "ASSIGN_TRAINER",
+      "details": "Assigned John Trainer to Angular Advanced Mastery"
+    },
+    {
+      "id": "3b29",
+      "timestamp": "2026-01-31T17:07:00.473Z",
+      "userId": "3",
+      "action": "RAISE_REQUEST",
+      "details": "Client raised request for Java"
+    },
+    {
+      "id": "cf74",
+      "timestamp": "2026-01-31T17:19:01.822Z",
+      "userId": "3",
+      "action": "RAISE_REQUEST",
+      "details": "Client raised request for Angular Training"
+    },
+    {
+      "id": "9906",
+      "timestamp": "2026-01-31T17:20:45.478Z",
+      "userId": "2",
+      "action": "ACCEPT_PO",
+      "details": "John Trainer accepted PO for Angular Training"
+    },
+    {
+      "id": "c8cb",
+      "timestamp": "2026-01-31T17:20:48.918Z",
+      "userId": "2",
+      "action": "MARK_COMPLETED",
+      "details": "John Trainer completed Angular Training"
+    },
+    {
+      "id": "ec40",
+      "timestamp": "2026-01-31T17:40:39.211Z",
+      "userId": "1",
+      "action": "GENERATE_INVOICE",
+      "details": "Generated client invoice INV-CL-4850 for Angular Training"
+    },
+    {
+      "id": "6156",
+      "timestamp": "2026-01-31T19:28:37.850Z",
+      "userId": "3",
+      "action": "PAYMENT_DONE",
+      "details": "Client marked payment as done for invoice INV-CL-4850"
+    },
+    {
+      "id": "214f",
+      "timestamp": "2026-01-31T19:47:38.140Z",
+      "userId": "admin",
+      "action": "TRAINER_ONBOARDING_EMAIL_SENT",
+      "details": "Sent onboarding email to srinitha@gmail.com. Credentials: [Password: n6v@&Qy^]"
+    },
+    {
+      "id": "be3b",
+      "timestamp": "2026-01-31T19:54:25.353Z",
+      "userId": "admin",
+      "action": "TRAINER_ONBOARDING_EMAIL_SENT",
+      "details": "Sent onboarding email to harini@gmail.com. Credentials: [Password: Dwc68FQ6]"
+    },
+    {
+      "id": "b0af",
+      "timestamp": "2026-01-31T19:56:47.796Z",
+      "userId": "3",
+      "action": "RAISE_REQUEST",
+      "details": "Client raised request for DB "
+    },
+    {
+      "id": "5f04",
+      "timestamp": "2026-01-31T19:57:56.883Z",
+      "userId": "tszc44cc4",
+      "action": "ACCEPT_PO",
+      "details": "Harini accepted PO for DB "
+    },
+    {
+      "id": "bbf9",
+      "timestamp": "2026-02-02T06:16:00.998Z",
+      "userId": "admin",
+      "action": "TRAINER_ONBOARDING_EMAIL_SENT",
+      "details": "Sent onboarding email to sri@gmail.com. Credentials: [Password: 7ji!bNSL]"
+    },
+    {
+      "id": "7868",
+      "timestamp": "2026-02-02T06:19:05.978Z",
+      "userId": "admin",
+      "action": "TRAINER_ONBOARDING_EMAIL_SENT",
+      "details": "Sent onboarding email to hari@gmail.com. Credentials: [Password: fgL6r#tR]"
+    },
+    {
+      "id": "e1a4",
+      "timestamp": "2026-02-02T06:20:29.590Z",
+      "userId": "3",
+      "action": "RAISE_REQUEST",
+      "details": "Client raised request for Trainig for dot net"
+    },
+    {
+      "id": "6702",
+      "timestamp": "2026-02-02T06:22:02.434Z",
+      "userId": "admin",
+      "action": "TRAINER_ONBOARDING_EMAIL_SENT",
+      "details": "Sent onboarding email to ksrish@gmail.com. Credentials: [Password: D$t8ZN68]"
+    },
+    {
+      "id": "e05d",
+      "timestamp": "2026-02-02T06:42:01.614Z",
+      "userId": "admin",
+      "action": "APPROVE_REGISTRATION",
+      "details": "Admin approved CLIENT request from surya@gmail.com. Credentials: [Password: wa2@6AFm]"
+    },
+    {
+      "id": "78c5",
+      "timestamp": "2026-02-02T06:55:26.521Z",
+      "userId": "admin",
+      "action": "APPROVE_REGISTRATION",
+      "details": "Admin approved TRAINER request from kat@gmail.om. Credentials: [Password: NKDZV^gT]"
+    },
+    {
+      "id": "25ae",
+      "timestamp": "2026-02-02T07:11:16.249Z",
+      "userId": "admin",
+      "action": "APPROVE_REGISTRATION",
+      "details": "Admin approved TRAINER request from rikki.katta@gmail.com. Credentials: [Password: Y%YMfr^J]"
+    },
+    {
+      "id": "4501",
+      "timestamp": "2026-02-02T07:11:17.714Z",
+      "userId": "admin",
+      "action": "CREDENTIALS_EMAIL_SENT",
+      "details": "Credentials email sent to rikki.katta@gmail.com. Status: Email sent successfully!"
+    },
+    {
+      "id": "e8c2",
+      "timestamp": "2026-02-02T07:13:48.071Z",
+      "userId": "admin",
+      "action": "APPROVE_REGISTRATION",
+      "details": "Admin approved CLIENT request from rikki.katta@gmail.com. Credentials: [Password: f2zDi!c4]"
+    },
+    {
+      "id": "e6d7",
+      "timestamp": "2026-02-02T07:13:49.369Z",
+      "userId": "admin",
+      "action": "CREDENTIALS_EMAIL_SENT",
+      "details": "Credentials email sent to rikki.katta@gmail.com. Status: Email sent successfully!"
+    },
+    {
+      "id": "74b0",
+      "timestamp": "2026-02-02T17:56:27.751Z",
+      "userId": "3",
+      "action": "RAISE_REQUEST",
+      "details": "Client raised request for Salesforce - MERN Stack"
+    },
+    {
+      "id": "1f01",
+      "timestamp": "2026-02-02T17:57:25.372Z",
+      "userId": "1",
+      "action": "ASSIGN_TRAINER",
+      "details": "Assigned John Trainer to Salesforce - MERN Stack"
+    },
+    {
+      "id": "b6e6",
+      "timestamp": "2026-02-02T17:58:08.575Z",
+      "userId": "2",
+      "action": "ACCEPT_PO",
+      "details": "John Trainer accepted PO for Salesforce - MERN Stack"
+    },
+    {
+      "id": "d3aa",
+      "timestamp": "2026-02-02T17:59:11.968Z",
+      "userId": "2",
+      "action": "MARK_COMPLETED",
+      "details": "John Trainer completed Salesforce - MERN Stack"
+    },
+    {
+      "id": "451c",
+      "timestamp": "2026-02-02T18:02:47.373Z",
+      "userId": "1",
+      "action": "APPROVE_TRAINER_INVOICE",
+      "details": "Admin approved payout for John Trainer - Salesforce - MERN Stack"
+    },
+    {
+      "id": "2b5e",
+      "timestamp": "2026-02-02T18:05:34.422Z",
+      "userId": "3",
+      "action": "RAISE_REQUEST",
+      "details": "Client raised request for Intel - SQL"
+    },
+    {
+      "id": "2d43",
+      "timestamp": "2026-02-02T18:07:56.304Z",
+      "userId": "tszc44cc4",
+      "action": "ACCEPT_PO",
+      "details": "Harini accepted PO for Intel - SQL"
+    },
+    {
+      "id": "9d6e",
+      "timestamp": "2026-02-02T18:08:06.442Z",
+      "userId": "tszc44cc4",
+      "action": "MARK_COMPLETED",
+      "details": "Harini completed Intel - SQL"
+    },
+    {
+      "id": "5144",
+      "timestamp": "2026-02-02T18:11:27.084Z",
+      "userId": "3",
+      "action": "RAISE_REQUEST",
+      "details": "Client raised request for Tech Corp - Java"
+    },
+    {
+      "id": "fb28",
+      "timestamp": "2026-02-02T18:13:04.706Z",
+      "userId": "3",
+      "action": "RAISE_REQUEST",
+      "details": "Client raised request for Tech Corp - java"
+    },
+    {
+      "id": "db1c",
+      "timestamp": "2026-02-02T18:15:44.581Z",
+      "userId": "tszc44cc4",
+      "action": "ACCEPT_PO",
+      "details": "Harini accepted PO for Tech Corp - java"
+    },
+    {
+      "id": "89fd",
+      "timestamp": "2026-02-02T18:16:32.777Z",
+      "userId": "tszc44cc4",
+      "action": "MARK_COMPLETED",
+      "details": "Harini completed Tech Corp - java"
+    },
+    {
+      "id": "2c7c",
+      "timestamp": "2026-02-02T18:17:12.532Z",
+      "userId": "1",
+      "action": "APPROVE_TRAINER_INVOICE",
+      "details": "Admin approved payout for Harini - Tech Corp - java"
+    },
+    {
+      "id": "5d12",
+      "timestamp": "2026-02-02T18:26:20.134Z",
+      "userId": "1",
+      "action": "APPROVE_TRAINER_INVOICE",
+      "details": "Admin approved payout for Harini - Intel - SQL"
+    },
+    {
+      "id": "280f",
+      "timestamp": "2026-02-02T18:42:54.913Z",
+      "userId": "3",
+      "action": "RAISE_REQUEST",
+      "details": "Client raised request for Tech Corp - SQL"
+    },
+    {
+      "id": "7c36",
+      "timestamp": "2026-02-02T18:43:13.997Z",
+      "userId": "1",
+      "action": "GENERATE_INVOICE",
+      "details": "Generated client invoice INV-CL-4168 for Intel - SQL"
+    },
+    {
+      "id": "91f3",
+      "timestamp": "2026-02-02T18:44:09.167Z",
+      "userId": "tszc44cc4",
+      "action": "ACCEPT_PO",
+      "details": "Harini accepted PO for Tech Corp - SQL"
+    },
+    {
+      "id": "5a20",
+      "timestamp": "2026-02-02T18:44:11.202Z",
+      "userId": "tszc44cc4",
+      "action": "MARK_COMPLETED",
+      "details": "Harini completed Tech Corp - SQL"
+    },
+    {
+      "id": "d0e5",
+      "timestamp": "2026-02-02T18:44:45.089Z",
+      "userId": "1",
+      "action": "SEND_INVOICE",
+      "details": "Admin sent invoice INV-CL-4168 to Tech Corp"
+    },
+    {
+      "id": "21c0",
+      "timestamp": "2026-02-02T18:46:22.423Z",
+      "userId": "1",
+      "action": "GENERATE_INVOICE",
+      "details": "Generated client invoice INV-CL-2103 for Tech Corp - java"
+    },
+    {
+      "id": "71f6",
+      "timestamp": "2026-02-02T18:46:27.029Z",
+      "userId": "1",
+      "action": "GENERATE_INVOICE",
+      "details": "Generated client invoice INV-CL-5772 for Tech Corp - SQL"
+    },
+    {
+      "id": "2b0a",
+      "timestamp": "2026-02-02T18:49:05.322Z",
+      "userId": "1",
+      "action": "SEND_INVOICE",
+      "details": "Admin sent invoice INV-CL-5772 to Tech Corp"
+    },
+    {
+      "id": "959e",
+      "timestamp": "2026-02-02T18:49:07.843Z",
+      "userId": "1",
+      "action": "SEND_INVOICE",
+      "details": "Admin sent invoice INV-CL-2103 to Tech Corp"
+    },
+    {
+      "id": "c354",
+      "timestamp": "2026-02-02T18:50:30.806Z",
+      "userId": "tszc44cc4",
+      "action": "MARK_COMPLETED",
+      "details": "Harini completed DB "
+    },
+    {
+      "id": "8eda",
+      "timestamp": "2026-02-02T18:51:16.170Z",
+      "userId": "1",
+      "action": "APPROVE_TRAINER_INVOICE",
+      "details": "Admin approved payout for Harini - DB "
+    },
+    {
+      "id": "f5f0",
+      "timestamp": "2026-02-02T18:55:10.765Z",
+      "userId": "1",
+      "action": "GENERATE_INVOICE",
+      "details": "Generated client invoice INV-CL-1654 for DB "
+    },
+    {
+      "id": "ff6f",
+      "timestamp": "2026-02-02T18:55:57.715Z",
+      "userId": "3",
+      "action": "PAYMENT_DONE",
+      "details": "Client marked payment as done for invoice INV-CL-5772"
+    },
+    {
+      "id": "2b4c",
+      "timestamp": "2026-02-02T18:59:46.732Z",
+      "userId": "3",
+      "action": "RAISE_REQUEST",
+      "details": "Client raised request for The hartford - Springboot"
+    },
+    {
+      "id": "c770",
+      "timestamp": "2026-02-02T19:02:03.104Z",
+      "userId": "3",
+      "action": "RAISE_REQUEST",
+      "details": "Client raised request for Sales - MERN Stack"
+    },
+    {
+      "id": "5192",
+      "timestamp": "2026-02-02T19:03:00.059Z",
+      "userId": "tszc44cc4",
+      "action": "ACCEPT_PO",
+      "details": "Harini accepted PO for Sales - MERN Stack"
+    },
+    {
+      "id": "2b4a",
+      "timestamp": "2026-02-02T19:03:01.482Z",
+      "userId": "tszc44cc4",
+      "action": "MARK_COMPLETED",
+      "details": "Harini completed Sales - MERN Stack"
+    },
+    {
+      "id": "0b4b",
+      "timestamp": "2026-02-02T19:03:37.443Z",
+      "userId": "1",
+      "action": "APPROVE_TRAINER_INVOICE",
+      "details": "Admin approved payout for Harini - Sales - MERN Stack"
+    },
+    {
+      "id": "23e7",
+      "timestamp": "2026-02-02T19:04:32.768Z",
+      "userId": "3",
+      "action": "PAYMENT_DONE",
+      "details": "Client marked payment as done for invoice INV-CL-4168"
+    },
+    {
+      "id": "324a",
+      "timestamp": "2026-02-02T19:04:58.607Z",
+      "userId": "1",
+      "action": "GENERATE_INVOICE",
+      "details": "Generated client invoice INV-CL-6912 for Sales - MERN Stack"
+    },
+    {
+      "id": "a72c",
+      "timestamp": "2026-02-02T19:05:05.187Z",
+      "userId": "1",
+      "action": "SEND_INVOICE",
+      "details": "Admin sent invoice INV-CL-6912 to Tech Corp"
+    },
+    {
+      "id": "cb8b",
+      "timestamp": "2026-02-02T19:05:27.701Z",
+      "userId": "3",
+      "action": "PAYMENT_DONE",
+      "details": "Client marked payment as done for invoice INV-CL-6912"
+    },
+    {
+      "id": "0dd2",
+      "timestamp": "2026-02-02T19:07:38.218Z",
+      "userId": "3",
+      "action": "RAISE_REQUEST",
+      "details": "Client raised request for Google - Angular"
+    },
+    {
+      "id": "52f0",
+      "timestamp": "2026-02-02T19:09:34.469Z",
+      "userId": "3",
+      "action": "RAISE_REQUEST",
+      "details": "Client raised request for microsoft - sql"
+    },
+    {
+      "id": "9e40",
+      "timestamp": "2026-02-03T04:20:59.789Z",
+      "userId": "admin",
+      "action": "APPROVE_REGISTRATION",
+      "details": "Admin approved CLIENT request from srinitha.devaraneni@gmail.com. Credentials: [Password: Urkz#79s]"
+    },
+    {
+      "id": "6ea8",
+      "timestamp": "2026-02-03T04:21:01.810Z",
+      "userId": "admin",
+      "action": "CREDENTIALS_EMAIL_SENT",
+      "details": "Credentials email sent to srinitha.devaraneni@gmail.com. Status: Email sent successfully!"
+    },
+    {
+      "id": "888c",
+      "timestamp": "2026-02-03T04:40:35.003Z",
+      "userId": "3",
+      "action": "RAISE_REQUEST",
+      "details": "Client raised request for gggg - angular"
+    },
+    {
+      "id": "aaea",
+      "timestamp": "2026-02-03T04:42:20.642Z",
+      "userId": "2",
+      "action": "ACCEPT_PO",
+      "details": "John Trainer accepted PO for Google - Angular"
+    },
+    {
+      "id": "3190",
+      "timestamp": "2026-02-03T04:42:26.824Z",
+      "userId": "2",
+      "action": "MARK_COMPLETED",
+      "details": "John Trainer completed Google - Angular"
+    },
+    {
+      "id": "d129",
+      "timestamp": "2026-02-03T04:43:04.708Z",
+      "userId": "2",
+      "action": "ACCEPT_PO",
+      "details": "John Trainer accepted PO for gggg - angular"
+    },
+    {
+      "id": "f0ff",
+      "timestamp": "2026-02-03T04:43:06.470Z",
+      "userId": "2",
+      "action": "MARK_COMPLETED",
+      "details": "John Trainer completed gggg - angular"
+    },
+    {
+      "id": "1395",
+      "timestamp": "2026-02-03T04:44:00.342Z",
+      "userId": "1",
+      "action": "APPROVE_TRAINER_INVOICE",
+      "details": "Admin approved payout for John Trainer - gggg - angular"
+    },
+    {
+      "id": "8516",
+      "timestamp": "2026-02-03T04:44:46.008Z",
+      "userId": "3",
+      "action": "PAYMENT_DONE",
+      "details": "Client marked payment as done for invoice INV-CL-6571"
+    },
+    {
+      "id": "404b",
+      "timestamp": "2026-02-03T05:10:43.462Z",
+      "userId": "1",
+      "action": "GENERATE_INVOICE",
+      "details": "Generated client invoice INV-CL-2697 for Google - Angular"
+    },
+    {
+      "id": "a75a",
+      "timestamp": "2026-02-03T05:15:42.512Z",
+      "userId": "admin",
+      "action": "APPROVE_REGISTRATION",
+      "details": "Admin approved CLIENT request from srinithadevaraneni21@gmail.com. Credentials: [Password: %bdA7GJw]"
+    },
+    {
+      "id": "5119",
+      "timestamp": "2026-02-03T05:15:44.017Z",
+      "userId": "admin",
+      "action": "CREDENTIALS_EMAIL_SENT",
+      "details": "Credentials email sent to srinithadevaraneni21@gmail.com. Status: Email sent successfully!"
+    },
+    {
+      "id": "aa35",
+      "timestamp": "2026-02-03T05:15:57.347Z",
+      "userId": "admin",
+      "action": "APPROVE_REGISTRATION",
+      "details": "Admin approved CLIENT request from srinithadevaraneni21@gmail.com. Credentials: [Password: qCSsBzGm]"
+    },
+    {
+      "id": "1cac",
+      "timestamp": "2026-02-03T05:15:58.147Z",
+      "userId": "admin",
+      "action": "CREDENTIALS_EMAIL_SENT",
+      "details": "Credentials email sent to srinithadevaraneni21@gmail.com. Status: Email sent successfully!"
+    },
+    {
+      "id": "2d00",
+      "timestamp": "2026-02-03T05:16:11.250Z",
+      "userId": "admin",
+      "action": "CREDENTIALS_EMAIL_SENT",
+      "details": "Credentials email sent to srinithadevaraneni21@gmail.com. Status: Email sent successfully!"
+    },
+    {
+      "id": "b8f1",
+      "timestamp": "2026-02-03T05:16:23.729Z",
+      "userId": "admin",
+      "action": "APPROVE_REGISTRATION",
+      "details": "Admin approved CLIENT request from srinithadevaraneni21@gmail.com. Credentials: [Password: M@5068Tc]"
+    },
+    {
+      "id": "94ce",
+      "timestamp": "2026-02-03T05:16:24.565Z",
+      "userId": "admin",
+      "action": "CREDENTIALS_EMAIL_SENT",
+      "details": "Credentials email sent to srinithadevaraneni21@gmail.com. Status: Email sent successfully!"
+    },
+    {
+      "id": "7f9b",
+      "timestamp": "2026-02-03T05:26:37.909Z",
+      "userId": "admin",
+      "action": "APPROVE_REGISTRATION",
+      "details": "Admin approved CLIENT request from srinithadevaraneni21@gmail.com. Credentials: [Password: 8WB#RdMb]"
+    },
+    {
+      "id": "86fb",
+      "timestamp": "2026-02-03T05:26:39.369Z",
+      "userId": "admin",
+      "action": "CREDENTIALS_EMAIL_SENT",
+      "details": "Credentials email sent to srinithadevaraneni21@gmail.com. Status: Email sent successfully!"
+    },
+    {
+      "id": "1ecf",
+      "timestamp": "2026-02-03T05:26:44.458Z",
+      "userId": "admin",
+      "action": "APPROVE_REGISTRATION",
+      "details": "Admin approved CLIENT request from srinithadevaraneni21@gmail.com. Credentials: [Password: !AVR0g5#]"
+    },
+    {
+      "id": "7282",
+      "timestamp": "2026-02-03T05:26:45.218Z",
+      "userId": "admin",
+      "action": "CREDENTIALS_EMAIL_SENT",
+      "details": "Credentials email sent to srinithadevaraneni21@gmail.com. Status: Email sent successfully!"
+    }
+  ],
+  "notifications": [
+    {
+      "id": "n1",
+      "userId": "3",
+      "message": "Your training request 'Angular Advanced Mastery' has been assigned to a trainer.",
+      "read": false,
+      "timestamp": "2026-01-31T22:05:00Z"
+    },
+    {
+      "id": "ippg1ohct",
+      "userId": "xo9wavfsy",
+      "message": "Welcome srinitha! Your account is ready. Your temporary password is: n6v@&Qy^",
+      "type": "WELCOME",
+      "timestamp": "2026-01-31T19:47:38.141Z",
+      "read": false
+    },
+    {
+      "id": "qdhk6yakc",
+      "userId": "tszc44cc4",
+      "message": "Welcome Harini! Your account is ready. Your temporary password is: Dwc68FQ6",
+      "type": "WELCOME",
+      "timestamp": "2026-01-31T19:54:25.354Z",
+      "read": false
+    },
+    {
+      "id": "3m38j0ztv",
+      "userId": "x96a5eudd",
+      "message": "Welcome sri! Your account is ready. Your temporary password is: 7ji!bNSL",
+      "type": "WELCOME",
+      "timestamp": "2026-02-02T06:16:00.999Z",
+      "read": false
+    },
+    {
+      "id": "93pczf01o",
+      "userId": "sih9sd2t3",
+      "message": "Welcome hari! Your account is ready. Your temporary password is: fgL6r#tR",
+      "type": "WELCOME",
+      "timestamp": "2026-02-02T06:19:05.979Z",
+      "read": false
+    },
+    {
+      "id": "n6u7l3j53",
+      "userId": "11hy4s4ik",
+      "message": "Welcome krish! Your account is ready. Your temporary password is: D$t8ZN68",
+      "type": "WELCOME",
+      "timestamp": "2026-02-02T06:22:02.435Z",
+      "read": false
+    },
+    {
+      "id": "schftygoi",
+      "userId": "1obcymm1a",
+      "message": "Your registration request has been approved! Temporary password: wa2@6AFm",
+      "type": "WELCOME",
+      "timestamp": "2026-02-02T06:42:01.616Z",
+      "read": false
+    },
+    {
+      "id": "c2qx503ow",
+      "userId": "p44d6sqjy",
+      "message": "Your registration request has been approved! Temporary password: NKDZV^gT",
+      "type": "WELCOME",
+      "timestamp": "2026-02-02T06:55:26.521Z",
+      "read": false
+    },
+    {
+      "id": "dfdbzpkb9",
+      "userId": "5pyeq2ghe",
+      "message": "Your registration request has been approved! Temporary password: Y%YMfr^J",
+      "type": "WELCOME",
+      "timestamp": "2026-02-02T07:11:16.249Z",
+      "read": false
+    },
+    {
+      "id": "uej4bj6gs",
+      "userId": "o9n3yq7ri",
+      "message": "Your registration request has been approved! Temporary password: f2zDi!c4",
+      "type": "WELCOME",
+      "timestamp": "2026-02-02T07:13:48.071Z",
+      "read": false
+    },
+    {
+      "id": "e38c",
+      "userId": "c1",
+      "message": "Trainer has been assigned to your request: Salesforce - MERN Stack",
+      "read": false,
+      "timestamp": "2026-02-02T17:57:25.372Z"
+    },
+    {
+      "id": "b73f",
+      "userId": "c1",
+      "message": "An invoice has been generated for your training: Intel - SQL. It will be sent to you shortly.",
+      "read": false,
+      "timestamp": "2026-02-02T18:43:13.998Z"
+    },
+    {
+      "id": "4715",
+      "userId": "c1",
+      "message": "A new invoice INV-CL-4168 has been sent for: Intel - SQL",
+      "read": false,
+      "timestamp": "2026-02-02T18:44:45.089Z"
+    },
+    {
+      "id": "9ad2",
+      "userId": "c1",
+      "message": "A new invoice INV-CL-5772 has been sent for: Tech Corp - SQL",
+      "read": false,
+      "timestamp": "2026-02-02T18:49:05.323Z"
+    },
+    {
+      "id": "d419",
+      "userId": "c1",
+      "message": "A new invoice INV-CL-2103 has been sent for: Tech Corp - java",
+      "read": false,
+      "timestamp": "2026-02-02T18:49:07.843Z"
+    },
+    {
+      "id": "b76e",
+      "userId": "c1",
+      "message": "A new invoice INV-CL-6912 has been sent for: Sales - MERN Stack",
+      "read": false,
+      "timestamp": "2026-02-02T19:05:05.188Z"
+    },
+    {
+      "id": "az6svbdor",
+      "userId": "92as9x4vj",
+      "message": "Your registration request has been approved! Temporary password: Urkz#79s",
+      "type": "WELCOME",
+      "timestamp": "2026-02-03T04:20:59.790Z",
+      "read": false
+    },
+    {
+      "id": "13ujh7bcb",
+      "userId": "z49lfzdai",
+      "message": "Your registration request has been approved! Temporary password: %bdA7GJw",
+      "type": "WELCOME",
+      "timestamp": "2026-02-03T05:15:42.513Z",
+      "read": false
+    },
+    {
+      "id": "11qtu50av",
+      "userId": "z49lfzdai",
+      "message": "Your registration request has been approved! Temporary password: qCSsBzGm",
+      "type": "WELCOME",
+      "timestamp": "2026-02-03T05:15:57.348Z",
+      "read": false
+    },
+    {
+      "id": "2qcl8wp7m",
+      "userId": "z49lfzdai",
+      "message": "Your registration request has been approved! Temporary password: M@5068Tc",
+      "type": "WELCOME",
+      "timestamp": "2026-02-03T05:16:23.730Z",
+      "read": false
+    },
+    {
+      "id": "fy47eauzh",
+      "userId": "3cdy9cf97",
+      "message": "Your registration request has been approved! Temporary password: 8WB#RdMb",
+      "type": "WELCOME",
+      "timestamp": "2026-02-03T05:26:37.910Z",
+      "read": false
+    },
+    {
+      "id": "v4zj8ccpb",
+      "userId": "3cdy9cf97",
+      "message": "Your registration request has been approved! Temporary password: !AVR0g5#",
+      "type": "WELCOME",
+      "timestamp": "2026-02-03T05:26:44.460Z",
+      "read": false
+    }
+  ]
+}
