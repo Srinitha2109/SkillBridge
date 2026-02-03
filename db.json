@@ -63,8 +63,30 @@
       "techStack": "",
       "company": "The Hartford",
       "bio": "Request for a trianer\n",
-      "status": "Pending",
+      "status": "Rejected",
       "timestamp": "2026-02-03T05:26:14.537Z"
+    },
+    {
+      "id": "772vujefz",
+      "name": "Ruthwik",
+      "email": "ruthwik@gmail.com",
+      "role": "TRAINER",
+      "techStack": "MERN STACK",
+      "company": "",
+      "bio": "nnnnnnn",
+      "status": "Approved",
+      "timestamp": "2026-02-03T07:12:51.313Z"
+    },
+    {
+      "id": "tv86udrgu",
+      "name": "manikumar",
+      "email": "manikumar@gmail.com",
+      "role": "TRAINER",
+      "techStack": "MERN STACK",
+      "company": "",
+      "bio": "hhhhh",
+      "status": "Approved",
+      "timestamp": "2026-02-03T07:16:58.412Z"
     }
   ],
   "users": [
@@ -180,6 +202,20 @@
       "password": "!AVR0g5#",
       "name": "Srinitha Rao Devaraneni",
       "role": "CLIENT"
+    },
+    {
+      "id": "772vujefz",
+      "email": "ruthwik@gmail.com",
+      "password": "0XJ%T4y7",
+      "name": "Ruthwik",
+      "role": "TRAINER"
+    },
+    {
+      "id": "tv86udrgu",
+      "email": "manikumar@gmail.com",
+      "password": "A!A2LP#Y",
+      "name": "manikumar",
+      "role": "TRAINER"
     }
   ],
   "trainers": [
@@ -229,6 +265,30 @@
       "email": "rikki.katta@gmail.com",
       "techStack": [
         "java"
+      ],
+      "experience": 0,
+      "rating": 0,
+      "availability": true,
+      "workload": 0
+    },
+    {
+      "id": "772vujefz",
+      "name": "Ruthwik",
+      "email": "ruthwik@gmail.com",
+      "techStack": [
+        "MERN STACK"
+      ],
+      "experience": 0,
+      "rating": 0,
+      "availability": true,
+      "workload": 0
+    },
+    {
+      "id": "tv86udrgu",
+      "name": "manikumar",
+      "email": "manikumar@gmail.com",
+      "techStack": [
+        "MERN STACK"
       ],
       "experience": 0,
       "rating": 0,
@@ -602,6 +662,82 @@
       "startDate": "2026-01-02",
       "endDate": "2026-02-03",
       "paymentType": "Net 30"
+    },
+    {
+      "id": "04ef",
+      "company": "My Company",
+      "phone": "8888888888",
+      "technology": "MERN STACK",
+      "duration": "3",
+      "startDate": "2026-02-01",
+      "batchSize": 20,
+      "location": "",
+      "budget": 1234,
+      "mode": "Online",
+      "poNumber": "PO-20260203-6527",
+      "title": "My Company - MERN STACK",
+      "clientId": "c1",
+      "status": "Active",
+      "clientPO": {
+        "filename": "PO-20260203-6527.pdf",
+        "status": "Uploaded",
+        "poNumber": "PO-20260203-6527",
+        "generatedDate": "2026-02-03T07:15:09.638Z"
+      },
+      "trainerId": "772vujefz",
+      "trainerPO": {
+        "filename": "TPO_772vujefz_04ef.pdf",
+        "status": "Accepted",
+        "trainerName": "Ruthwik",
+        "technology": "MERN STACK",
+        "paymentModel": "Fixed",
+        "rate": 123,
+        "totalPayable": 123,
+        "createdAt": "2026-02-03T07:16:22.830Z"
+      },
+      "clientInvoice": null,
+      "trainerInvoice": null,
+      "contactDetails": {
+        "name": "Alice Smith",
+        "email": "client@techcorp.com",
+        "phone": "8888888888"
+      },
+      "timestamp": "2026-02-03T07:15:09.638Z",
+      "enrollmentId": "ENR-5VP6RZ",
+      "endDate": "2026-02-28",
+      "paymentType": "Net 30"
+    },
+    {
+      "id": "4433",
+      "company": "My Company",
+      "phone": "999999999",
+      "technology": "MERN STACK",
+      "duration": "4",
+      "startDate": "2026-02-03",
+      "batchSize": 20,
+      "location": "",
+      "budget": 8907,
+      "mode": "Online",
+      "poNumber": "PO-20260203-8465",
+      "title": "My Company - MERN STACK",
+      "clientId": "c1",
+      "status": "Requested",
+      "clientPO": {
+        "filename": "PO-20260203-8465.pdf",
+        "status": "Uploaded",
+        "poNumber": "PO-20260203-8465",
+        "generatedDate": "2026-02-03T07:19:21.128Z"
+      },
+      "trainerId": null,
+      "trainerPO": null,
+      "clientInvoice": null,
+      "trainerInvoice": null,
+      "contactDetails": {
+        "name": "Alice Smith",
+        "email": "client@techcorp.com",
+        "phone": "999999999"
+      },
+      "timestamp": "2026-02-03T07:19:21.128Z"
     }
   ],
   "auditLogs": [
@@ -1164,6 +1300,62 @@
       "userId": "admin",
       "action": "CREDENTIALS_EMAIL_SENT",
       "details": "Credentials email sent to srinithadevaraneni21@gmail.com. Status: Email sent successfully!"
+    },
+    {
+      "id": "4460",
+      "timestamp": "2026-02-03T07:13:21.096Z",
+      "userId": "admin",
+      "action": "APPROVE_REGISTRATION",
+      "details": "Admin approved TRAINER request from ruthwik@gmail.com. Credentials: [Password: 0XJ%T4y7]"
+    },
+    {
+      "id": "e9b8",
+      "timestamp": "2026-02-03T07:13:22.524Z",
+      "userId": "admin",
+      "action": "CREDENTIALS_EMAIL_SENT",
+      "details": "Credentials email sent to ruthwik@gmail.com. Status: Email sent successfully!"
+    },
+    {
+      "id": "4e78",
+      "timestamp": "2026-02-03T07:15:09.662Z",
+      "userId": "3",
+      "action": "RAISE_REQUEST",
+      "details": "Client raised PO PO-20260203-6527 for MERN STACK"
+    },
+    {
+      "id": "2e00",
+      "timestamp": "2026-02-03T07:16:22.850Z",
+      "userId": "1",
+      "action": "ASSIGN_TRAINER",
+      "details": "Assigned Ruthwik to My Company - MERN STACK"
+    },
+    {
+      "id": "5653",
+      "timestamp": "2026-02-03T07:17:52.010Z",
+      "userId": "772vujefz",
+      "action": "ACCEPT_PO",
+      "details": "Ruthwik accepted PO for My Company - MERN STACK"
+    },
+    {
+      "id": "8963",
+      "timestamp": "2026-02-03T07:18:28.479Z",
+      "userId": "admin",
+      "action": "APPROVE_REGISTRATION",
+      "details": "Admin approved TRAINER request from manikumar@gmail.com. Credentials: [Password: A!A2LP#Y]"
+    },
+    {
+      "id": "74e5",
+      "timestamp": "2026-02-03T07:18:30.440Z",
+      "userId": "admin",
+      "action": "CREDENTIALS_EMAIL_SENT",
+      "details": "Credentials email sent to manikumar@gmail.com. Status: Email sent successfully!"
+    },
+    {
+      "id": "4364",
+      "timestamp": "2026-02-03T07:19:21.170Z",
+      "userId": "3",
+      "action": "RAISE_REQUEST",
+      "details": "Client raised PO PO-20260203-8465 for MERN STACK"
     }
   ],
   "notifications": [
@@ -1334,6 +1526,29 @@
       "message": "Your registration request has been approved! Temporary password: !AVR0g5#",
       "type": "WELCOME",
       "timestamp": "2026-02-03T05:26:44.460Z",
+      "read": false
+    },
+    {
+      "id": "2zqmm8pg4",
+      "userId": "772vujefz",
+      "message": "Your registration request has been approved! Temporary password: 0XJ%T4y7",
+      "type": "WELCOME",
+      "timestamp": "2026-02-03T07:13:21.097Z",
+      "read": false
+    },
+    {
+      "id": "b06b",
+      "userId": "c1",
+      "message": "Trainer has been assigned to your request: My Company - MERN STACK",
+      "read": false,
+      "timestamp": "2026-02-03T07:16:22.850Z"
+    },
+    {
+      "id": "x81nd7os6",
+      "userId": "tv86udrgu",
+      "message": "Your registration request has been approved! Temporary password: A!A2LP#Y",
+      "type": "WELCOME",
+      "timestamp": "2026-02-03T07:18:28.479Z",
       "read": false
     }
   ]

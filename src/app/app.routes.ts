@@ -25,7 +25,7 @@ export const routes: Routes = [
         data: { role: 'TRAINER' },
         children: [
             { path: 'assignments', loadComponent: () => import('./features/trainer/assignments/assignments.component').then(m => m.TrainerAssignmentsComponent) },
-            { path: 'invoices', loadComponent: () => import('./features/trainer/assignments/assignments.component').then(m => m.TrainerAssignmentsComponent) },
+            { path: 'invoices', loadComponent: () => import('./features/trainer/invoices/invoices.component').then(m => m.TrainerInvoicesComponent) },
         ]
     },
     {
