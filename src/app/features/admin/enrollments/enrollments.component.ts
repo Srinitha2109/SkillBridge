@@ -62,13 +62,7 @@ import { AuthService } from '../../../core/services/auth.service';
                 </button>
                 <div class="flex justify-end gap-2">
                   
-                   <button 
-                     *ngIf="training.status === 'Active'"
-                     (click)="markCompleted(training)"
-                     class="px-3 py-1.5 bg-blue-100 text-blue-700 rounded-lg hover:bg-blue-200 transition-all text-[9px] uppercase font-bold"
-                   >
-                     Complete Training
-                   </button>
+                   
                    <button 
                      *ngIf="training.status === 'Completed' && !training.clientInvoice"
                      (click)="generateInvoice(training)"
@@ -163,7 +157,13 @@ import { AuthService } from '../../../core/services/auth.service';
                   <div class="space-y-4">
                   <div class="flex justify-between items-center">
                      <h5 class="text-xs font-bold text-slate-500 uppercase">Select Trainer</h5>
-                     <span *ngIf="!hasMatches()" class="text-[9px] text-amber-500 font-bold uppercase">No exact match found - showing all</span>
+                     <div class="flex gap-2">
+                        <span *ngIf="!hasMatches()" class="text-[9px] text-amber-500 font-bold uppercase">• No exact match</span>
+                     </div>
+                  </div>
+                  <div *ngIf="filteredTrainers().length === 0" class="p-6 text-center bg-slate-50 rounded-xl border border-dashed border-slate-200">
+                     <p class="text-sm text-slate-500">No available trainers found</p>
+                     <p class="text-xs text-slate-400 mt-1">All trainers are currently unavailable</p>
                   </div>
                   <div class="max-h-[300px] overflow-y-auto pr-2 custom-scrollbar space-y-3">
                      <div *ngFor="let trainer of filteredTrainers()" 
@@ -261,20 +261,35 @@ export class AdminEnrollmentsComponent implements OnInit {
 
   pendingRequests = computed(() => this.trainings().filter(t => t.status === 'Requested'));
 
+  // Get trainer IDs who have active trainings
+  trainersWithActiveTrainings = computed(() => {
+    return this.trainings()
+      .filter(t => t.status === 'Active' || t.status === 'Trainer Assigned')
+      .map(t => t.trainerId);
+  });
+
+  // Only show trainers who are available AND don't have active trainings
+  availableTrainers = computed(() => {
+    const busyTrainerIds = this.trainersWithActiveTrainings();
+    return this.trainers().filter(t => 
+      t.availability === true && !busyTrainerIds.includes(t.id)
+    );
+  });
+
   filteredTrainers = computed(() => {
-    if (!this.selectedTraining()) return this.trainers();
+    if (!this.selectedTraining()) return this.availableTrainers();
     const tech = (this.selectedTraining().technology || '').toLowerCase();
-    const matched = this.trainers().filter(t =>
+    const matched = this.availableTrainers().filter(t =>
       t.techStack.some((ts: string) => ts.toLowerCase().includes(tech)) ||
       tech.includes(t.techStack[0].toLowerCase())
     );
-    return matched.length > 0 ? matched : this.trainers();
+    return matched.length > 0 ? matched : this.availableTrainers();
   });
 
   hasMatches = computed(() => {
     if (!this.selectedTraining()) return true;
     const tech = (this.selectedTraining().technology || '').toLowerCase();
-    return this.trainers().some(t =>
+    return this.availableTrainers().some(t =>
       t.techStack.some((ts: string) => ts.toLowerCase().includes(tech)) ||
       tech.includes(t.techStack[0].toLowerCase())
     );
